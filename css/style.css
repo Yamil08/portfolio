@@ -82,6 +82,7 @@ h4 {
   font-size: 1em;
   font-weight: lighter;
 }
+
 .footer {
   position: inherit;
   left: 0;
@@ -90,8 +91,19 @@ h4 {
   background-color: black;
   color: white;
   text-align: center;
+  margin-top: 20%
 }
 
+.text-center {
+margin-left: 32%;
+margin-right: 32%;
+margin-top: 3%;
+text-align: justify;
+text-justify: inter-word;
+
+
+
+}
 
 
 
